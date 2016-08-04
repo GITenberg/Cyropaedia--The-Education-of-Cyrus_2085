@@ -1,0 +1,39 @@
+_repo: Cyropaedia--The-Education-of-Cyrus_2085
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, H. G. (Henry Graham)
+    - Dakyns, Henry G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: ''
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Cyrus, King of Persia, d. 529 B.C. -- Fiction'
+- !lcsh 'Education of princes -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: 'Cyropaedia: The Education of Cyrus'
+url: http://www.gutenberg.org/ebooks/2085
